@@ -1,5 +1,4 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:v="urn:schemas-microsoft-com:vml">
-
 <head>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
     <meta content="width=device-width" name="viewport" />
@@ -17,17 +16,12 @@
             vertical-align: top;
             border-collapse: collapse;
         }
-
-        
-
-        a[x-apple-data-detectors=true] {
+	a[x-apple-data-detectors=true] {
             color: inherit !important;
             text-decoration: none !important;
         }
     </style>
-    
 </head>
-
 <body class="clean-body" style="margin: 0; padding: 0; -webkit-text-size-adjust: 100%; background-color: #ffffff;">
     <table bgcolor="#f1f4f8" cellpadding="0" cellspacing="0" class="nl-container" role="presentation" style="table-layout: fixed; vertical-align: top; min-width: 320px; Margin: 0 auto; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #fffff; width: 100%;" valign="top" width="100%">
         <tbody>
@@ -95,31 +89,22 @@
                                                 <div style="line-height: 1.5; font-size: 12px; font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; color: #555555; mso-line-height-alt: 18px;">
                                                     <p style="text-align: center; line-height: 1.5; word-break: break-word; font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; font-size: 12px; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 16px; color: #000000;">We sent an email.You'll find a magic link that will sign you into your account.</span></p>
                                                    <p style="text-align: center; line-height: 1.5; word-break: break-word; font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; font-size: 12px; mso-line-height-alt: 24px; margin: 0;"><span style="font-size: 16px; color: #000000;">The link expires in 3 minutes and you can use the link one-time-only, so be sure to use it soon.</span></p>
-
-                                                </div>
+					                            </div>
                                             </div>
-                                            
-           
-                                             
                                             <div style="color:#555555;font-family:Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;line-height:1.2;padding-top:20px;padding-right:40px;padding-bottom:10px;padding-left:40px;">
                                                 <div style="line-height: 1.2; font-size: 12px; color: #555555; font-family: Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif; mso-line-height-alt: 14px;">
                                                     <p style="font-size: 24px; line-height: 1.2; text-align: center; word-break: break-word; mso-line-height-alt: 29px; margin: 0;"><span style="font-size: 20px; color: #FF5733;"><strong>Go check your email!</strong></span></p>
                                                 </div>
                                             </div>
-                                             
-                                             
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                   
-                    
                 </td>
             </tr>
         </tbody>
     </table>
 </body>
-
 </html>
